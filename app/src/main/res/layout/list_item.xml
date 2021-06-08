@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ListItem"
+    android:orientation="horizontal"
+    android:padding="16dp"
+
+    >
+    <ImageView
+        android:paddingTop="16dp"
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="10dp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+
+        >
+
+        <TextView
+            android:paddingLeft="16dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:id="@+id/MivokId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lutti"
+            android:textColor="#424242"/>
+
+        <TextView
+            android:paddingLeft="16dp"
+            android:textColor="#616161"
+            android:id="@+id/DefaultId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="One"
+            />
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/play"
+        android:paddingTop="26dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/play"
+        android:clickable="true"
+        />
+</LinearLayout>

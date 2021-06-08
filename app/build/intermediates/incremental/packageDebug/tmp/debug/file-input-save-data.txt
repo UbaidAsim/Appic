@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Wed Jun 09 00:29:19 PKT 2021
+2.base=G\:\\Projects\\appic2\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/bianka.otf
+2.baseType=DIRECTORY
+3.base=G\:\\Projects\\appic2\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=fonts/flaming.otf
+4.base=G\:\\Projects\\appic2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+count=5
+2.path=fonts/bebas.ttf
+4.set=DEX
+3.path=fonts/lato.ttf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=G\:\\Projects\\appic2\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=G\:\\Projects\\appic2\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
